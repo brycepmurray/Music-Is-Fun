@@ -1,0 +1,10 @@
+body {
+    background-image: "https://i.stack.imgur.com/cGIFX.jpg";
+}
+
+container {
+    background-image: "https://i.stack.imgur.com/cGIFX.jpg";
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
