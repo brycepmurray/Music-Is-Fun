@@ -8,3 +8,7 @@ container {
     justify-content: center;
     align-content: center;
 }
+
+.contents {
+    background-image: "https://i.stack.imgur.com/cGIFX.jpg";
+}
