@@ -1,14 +1,19 @@
 body {
-    background-image: "https://i.stack.imgur.com/cGIFX.jpg";
+    background-image: url("https://st2.depositphotos.com/1007752/6500/i/950/depositphotos_65008319-stock-photo-natural-textured-vertical-grunge-burlap.jpg");
+    background-size: 100%;
 }
 
-container {
-    background-image: "https://i.stack.imgur.com/cGIFX.jpg";
-    display: flex;
-    justify-content: center;
+.col-lg-7 {
+    justify-content: space-around;
     align-content: center;
+    text-align: center;
+    background-color: lightsteelblue;
+    background-color: transparent, lightsteelblue;
+    margin-top: 2em;
+    height: min-content;
+    width: min-content;
 }
 
-.contents {
-    background-image: "https://i.stack.imgur.com/cGIFX.jpg";
+.form-group {
+    margin-top: 2em;
 }
